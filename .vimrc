@@ -23,3 +23,6 @@ nnoremap <silent> ]B :blast<CR>
 set hidden
 
 set noswapfile
+
+nnoremap ; :
+nnoremap : ;
