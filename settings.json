@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.autoIndent": false,
+    "workbench.editor.enablePreview": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "editor.renderIndentGuides": false,
+    "editor.lineHeight": 22,
+    "editor.autoClosingBrackets": false,
+    "workbench.sideBar.location": "right",
+    "window.openFoldersInNewWindow": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "window.restoreWindows": "all",
+    "editor.cursorBlinking": "phase",
+    "telemetry.enableTelemetry": false,
+    "editor.wrappingIndent": "indent",
+    "workbench.startupEditor": "none",
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": false
+}
